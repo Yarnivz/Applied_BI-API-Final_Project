@@ -1,0 +1,39 @@
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Red Cross Bloedvoorraden.exe
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Red Cross Bloedvoorraden.deps.json
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Red Cross Bloedvoorraden.runtimeconfig.json
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Red Cross Bloedvoorraden.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Red Cross Bloedvoorraden.pdb
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.AssemblyInfo.cs
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\staticwebassets\msbuild.Red Cross Bloedvoorraden.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\staticwebassets\msbuild.build.Red Cross Bloedvoorraden.props
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Red Cross Bloedvoorraden.props
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Red Cross Bloedvoorraden.props
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\scopedcss\bundle\Red Cross Bloedvoorraden.styles.css
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.csproj.CopyComplete
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\refint\Red Cross Bloedvoorraden.dll
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.pdb
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\Red Cross Bloedvoorraden.genruntimeconfig.cache
+C:\Users\User\Documents\Year 3\Applied Business Intelligence\API\Red Cross Bloedvoorraden\Red Cross Bloedvoorraden\obj\Debug\net6.0\ref\Red Cross Bloedvoorraden.dll

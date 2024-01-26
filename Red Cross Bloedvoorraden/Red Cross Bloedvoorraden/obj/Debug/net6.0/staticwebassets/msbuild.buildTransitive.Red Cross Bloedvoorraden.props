@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Red Cross Bloedvoorraden.props" />
+</Project>
